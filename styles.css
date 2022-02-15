@@ -68,7 +68,7 @@ div.row {
     justify-content: space-between;
 }
 
-div.password {
+div.row div {
     background-color: #273549;
     text-align: center;
     border-radius: 5px;
